@@ -1,0 +1,8 @@
+{
+  "name": "puzzlePhotoApp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

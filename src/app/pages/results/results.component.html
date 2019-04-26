@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-button (click)="obtenirTotesTasques()">Show Results</ion-button>
+  <ion-item >
+    <ion-label>Username</ion-label>
+    <ion-label>Score</ion-label>
+  </ion-item>
+  <ion-item-sliding #sliding *ngFor="let tasca of tasques; let i = index">
+    <ion-item >
+      <ion-label>{{ tasca.username }}</ion-label>
+      <ion-label>{{ tasca.score }}</ion-label>
+    </ion-item>
+  </ion-item-sliding>
+</ion-header>
+<footerBar ></footerBar>
+

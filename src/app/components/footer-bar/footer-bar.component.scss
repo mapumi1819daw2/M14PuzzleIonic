@@ -1,0 +1,22 @@
+.scale-up-bottom{
+    transform: scale(1.5);
+    transform-origin: 50% 100%
+}
+
+.footerApp {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.buttonFooter {
+    width: 8vh;
+    height: 8vh;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+

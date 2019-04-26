@@ -1,0 +1,4 @@
+#Fri Apr 26 19:23:36 CEST 2019
+base.0=/home/marc/Documents/M14PuzzleIonic/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
